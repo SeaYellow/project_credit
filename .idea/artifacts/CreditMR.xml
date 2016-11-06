@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreditMR">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreditMR</output-path>
+    <root id="archive" name="CreditMR.jar">
+      <element id="module-output" name="PROJECT_CREDIT" />
+    </root>
+  </artifact>
+</component>
